@@ -25,3 +25,5 @@ Added a "progress bar" that periodically re-renders a quote when the specified a
 
 ### Refactoring
 I have tried to increase the modularity of the code by grouping related logic into ES6 modules and splitting logic up into smaller functions and using composition.
+
+ https://ahmedelatreby.github.io/quote-generator/
